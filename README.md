@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Vzmsel&show_icons=true">]
+Hello, I'm vzmsel, a sophomore from Hunan University Of Technology, China.
+-   :man: Pronouns: he/him
+---
