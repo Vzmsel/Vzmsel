@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 Hello, I'm vzmsel, a sophomore from Hunan University Of Technology, China.
 
-<!-- -   :man: Pronouns: he/him -->
-
 ![](https://komarev.com/ghpvc/?username=Vzmsel&style=plastic&label=Profile+views)
 
 ---
